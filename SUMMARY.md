@@ -5,6 +5,8 @@
 ## Containers
 
 * [Stream](containers/untitled.md)
+* [Forward List](containers/forward-list.md)
+* [List](containers/list.md)
 
 ## Best Practices
 
