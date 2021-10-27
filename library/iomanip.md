@@ -31,8 +31,8 @@ This header file provides parametric manipulators such as:
 
 ### setprecision
 
-Sets the decimal precision to be used to format floating-point values on output operations.  
-Behaves as if member [precision](http://www.cplusplus.com/ios_base::precision) were called with n as argument on the stream on which it is inserted/extracted as a manipulator \(it can be inserted/extracted on [input streams](http://www.cplusplus.com/basic_istream) or [output streams](http://www.cplusplus.com/basic_ostream)\).
+Sets the decimal precision to be used to format floating-point values on output operations.\
+Behaves as if member [precision](http://www.cplusplus.com/ios\_base::precision) were called with n as argument on the stream on which it is inserted/extracted as a manipulator (it can be inserted/extracted on [input streams](http://www.cplusplus.com/basic\_istream) or [output streams](http://www.cplusplus.com/basic\_ostream)).
 
 ```cpp
 // setprecision example
@@ -78,8 +78,6 @@ Output:
 
 
 ### put\_time
-
-
 
 
 
